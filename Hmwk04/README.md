@@ -14,4 +14,5 @@ Assume the uncertainty of modulus E is effectively negligible, and the measureme
 Make a labview program that reads a date stream so that you can:
 + separately identify both high and low events (maxima and minima)
 + appends arrays to indentify the time index and value of the data for each event
+
 Use the SymPulseSignal text file as the data stream.
