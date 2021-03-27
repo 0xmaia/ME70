@@ -1,6 +1,7 @@
 # Homework 1
 *ME70 Intruments and Experiments*
 
+
 ## PART I
 A TMP36 temperature sensor provides the following readings for boiling water (in degrees celsius): [98.1; 101.2, 99.5, 100.1, 100.3, 99.4, 98.9]. Estimate the systematic error, maximum random error, and average magnitude (typical) of random error. Explain the differences in why it might be useful to know A, B, and C.
 
