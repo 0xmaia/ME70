@@ -7,10 +7,10 @@ A TMP36 temperature sensor provides the following readings for boiling water (in
 ## PART II
 Using labview, make a for-loop to concatenate an input array to make an output array.
 Input Array:
-|3|;
-|4|
+| 3 |
+| 4 |
 Output Array:
-|3|
+| 3 |
 |4|
 |3|
 |4|
