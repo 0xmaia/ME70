@@ -18,8 +18,4 @@ Using labview, make a for-loop to concatenate an input array to make an output a
 |3|
 |4|
 
-Using labview, make a nested for-loop that outputs a nxm array, with each entry showing a number encoding the row and column. Here is an example:
-
-|---|---|---|
-|11|12|13|
-|21|22|23|
+Using labview, make a nested for-loop that outputs a nxm array, with each entry showing a number encoding the row and column.
