@@ -1,5 +1,5 @@
 # Homework 2
-*ME70 Instruments and Experiments
+*ME70 Instruments and Experiments*
 
 ## PART I
 A manufacturer of TMP36 sensors provides the following graph (below, left) showing typical time responses. The speed appears to increase if the sensor is attached to a smaller copper PCB. Compute the time constant for (a) and estimate how much time is required for the TMP36 to reach a static approximation. Use Matlab to generate simulated time responses using your estimated time constants. Compare your reseults to curves a, b, and c.
