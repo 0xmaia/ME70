@@ -3,10 +3,13 @@
 
 ## PART I
 For this problem, your goal is to collect some cursor motion in Matlab and then compute ideal normal distributions to fit the resulting data. In the code, determine the histograms and one-dimensional models, compute the probabilities for the two-dimensional model according to the equations below. Collect data for small, rapid mouse movements for two conditions: 1) circular, and 2) random patterns. Provide figures of your results and comment on how well the models fit your data.
+
 One dimensional model:
+
 ![alt text](https://github.com/0xmaia/Images/blob/main/ME70_Hmwk07_Image1.jpg)
 
 Two dimensional model:
+
 ![alt text](https://github.com/0xmaia/Images/blob/main/ME70_Hmwk07_Image2.jpg)
 
 ## PART II
